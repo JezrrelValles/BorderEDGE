@@ -17,9 +17,9 @@ export default function Home() {
                                         <img src="/assets/images/me.png" alt="About Me" />
                                     </div>
                                     <div className="infos">
-                                        <h4>Bienvenido a </h4>
+                                        <h4>Lorem ipsum</h4>
                                         <h1>BorderEdge</h1>
-                                        <p>Consultoría en Data Analytics y Software</p>
+                                        <p>Consultoría en Data y Software</p>
                                         <Link href="#" className="about-btn">
                                             <img src="/assets/images/icon.svg" alt="Button" />
                                         </Link>
@@ -32,7 +32,7 @@ export default function Home() {
                                         <div className="banner shadow-box">
                                             <div className="marquee">
                                                 <div>
-                                                    <span>LATEST WORK AND <b>FEATURED</b> <img src="/assets/images/star1.svg" alt="Star" /> LATEST WORK AND <b>FEATURED</b> <img src="/assets/images/star1.svg" alt="Star" /> LATEST WORK AND <b>FEATURED</b> <img src="/assets/images/star1.svg" alt="Star" /> LATEST WORK AND <b>FEATURED</b> LATEST WORK AND <img src="/assets/images/star1.svg" alt="Star" /> LATEST WORK AND <b>FEATURED</b> LATEST WORK AND <img src="/assets/images/star1.svg" alt="Star" /></span>
+                                                    <span>BIENVENIDOS A <b>BorderEdge</b> <img src="/assets/images/star1.svg" alt="Star" /> BIENVENIDOS A <b>BorderEdge</b> <img src="/assets/images/star1.svg" alt="Star" /> BIENVENIDOS A <b>BorderEdge</b> <img src="/assets/images/star1.svg" alt="Star" /> BIENVENIDOS A <b>BorderEdge</b> <img src="/assets/images/star1.svg" alt="Star" /> BIENVENIDOS A <b>BorderEdge</b> <img src="/assets/images/star1.svg" alt="Star" /></span>
                                                 </div>
                                             </div>
                                         </div>
@@ -45,8 +45,8 @@ export default function Home() {
                                                 <img src="/assets/images/sign.png" alt="Sign" />
                                                 <div className="d-flex align-items-center justify-content-between">
                                                     <div className="infos">
-                                                        <h4>more about me</h4>
-                                                        <h1>Credentials</h1>
+                                                        <h4>conoce más</h4>
+                                                        <h1>BorderEdge</h1>
                                                     </div>
                                                     <Link href="/credentials" className="about-btn">
                                                         <img src="/assets/images/icon.svg" alt="Button" />
@@ -61,8 +61,8 @@ export default function Home() {
                                                 <img src="/assets/images/my-works.png" alt="My Works" />
                                                 <div className="d-flex align-items-center justify-content-between">
                                                     <div className="infos">
-                                                        <h4>SHOWCASE</h4>
-                                                        <h1>Projects</h1>
+                                                        <h4>conoce más</h4>
+                                                        <h1>Experiencia</h1>
                                                     </div>
                                                     <Link href="#" className="about-btn">
                                                         <img src="/assets/images/icon.svg" alt="Button" />
@@ -84,8 +84,8 @@ export default function Home() {
                                             <img src="/assets/images/gfonts.png" alt="GFonts" />
                                             <div className="d-flex align-items-center justify-content-between">
                                                 <div className="infos">
-                                                    <h4>Blog</h4>
-                                                    <h1>GFonts</h1>
+                                                    <h4>conoce más</h4>
+                                                    <h1>Noticias</h1>
                                                 </div>
                                                 <Link href="/blog" className="about-btn">
                                                     <img src="/assets/images/icon.svg" alt="Button" />
@@ -105,8 +105,8 @@ export default function Home() {
                                             </div>
                                             <div className="d-flex align-items-center justify-content-between">
                                                 <div className="infos">
-                                                    <h4>specialization</h4>
-                                                    <h1>Services Offering</h1>
+                                                    <h4>conoce más</h4>
+                                                    <h1>Servicios</h1>
                                                 </div>
                                                 <Link href="/service" className="about-btn">
                                                     <img src="/assets/images/icon.svg" alt="Button" />
@@ -127,8 +127,8 @@ export default function Home() {
                                             </div>
                                             <div className="d-flex align-items-center justify-content-between">
                                                 <div className="infos">
-                                                    <h4>Stay with me</h4>
-                                                    <h1>Profiles</h1>
+                                                    <h4>conoce más</h4>
+                                                    <h1>Redes</h1>
                                                 </div>
                                                 <Link href="/contact" className="about-btn">
                                                     <img src="/assets/images/icon.svg" alt="Button" />
@@ -145,16 +145,16 @@ export default function Home() {
                                     <img src="/assets/images/bg1.png" alt="BG" className="bg-img" />
                                     <div className="clients d-flex align-items-start gap-24 justify-content-center">
                                         <div className="client-item">
-                                            <h1>07</h1>
-                                            <p>Years <br />Experience</p>
+                                            <h1>5</h1>
+                                            <p>Años <br />Experiencia</p>
                                         </div>
                                         <div className="client-item">
-                                            <h1>+125</h1>
-                                            <p>CLIENTS <br />WORLDWIDE</p>
+                                            <h1>+10</h1>
+                                            <p>clientes <br />satisfechos</p>
                                         </div>
                                         <div className="client-item">
-                                            <h1>+210</h1>
-                                            <p>Total <br />Projects</p>
+                                            <h1>+10</h1>
+                                            <p>Proyectos <br />Completados</p>
                                         </div>
                                     </div>
                                 </div>
@@ -164,7 +164,7 @@ export default function Home() {
                                     <Link className="overlay-link" href="/contact" />
                                     <img src="/assets/images/bg1.png" alt="BG" className="bg-img" />
                                     <img src="/assets/images/icon2.png" alt="Icon" className="star-icon" />
-                                    <h1>Let's <br />work <span>together.</span></h1>
+                                    <h1>Colaboremos<br /><span>desde hoy.</span></h1>
                                     <Link href="#" className="about-btn">
                                         <img src="/assets/images/icon.svg" alt="Button" />
                                     </Link>
