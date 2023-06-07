@@ -98,10 +98,11 @@ export default function Home() {
                                             <Link href="/service" className="overlay-link" />
                                             <img src="/assets/images/bg1.png" alt="BG" className="bg-img" />
                                             <div className="icon-boxes">
-                                                <i className="iconoir-camera" />
-                                                <i className="iconoir-design-pencil" />
-                                                <i className="iconoir-color-filter" />
-                                                <i className="iconoir-dev-mode-phone" />
+                                                <i className="iconoir-page-search" />
+                                                <i className="iconoir-dev-mode-laptop" />
+                                                <i className="iconoir-graph-up" />
+                                                <i className="iconoir-database-stats" />
+                                                <i className="iconoir-presentation" />
                                             </div>
                                             <div className="d-flex align-items-center justify-content-between">
                                                 <div className="infos">
@@ -119,10 +120,10 @@ export default function Home() {
                                             <img src="/assets/images/bg1.png" alt="BG" className="bg-img" />
                                             <div className="inner-profile-icons shadow-box">
                                                 <Link href="#">
-                                                    <i className="iconoir-dribbble" />
+                                                    <i className="iconoir-linkedin" />
                                                 </Link>
                                                 <Link href="#">
-                                                    <i className="iconoir-twitter" />
+                                                    <i className="iconoir-instagram" />
                                                 </Link>
                                             </div>
                                             <div className="d-flex align-items-center justify-content-between">
@@ -145,15 +146,15 @@ export default function Home() {
                                     <img src="/assets/images/bg1.png" alt="BG" className="bg-img" />
                                     <div className="clients d-flex align-items-start gap-24 justify-content-center">
                                         <div className="client-item">
-                                            <h1>5</h1>
+                                            <h1>+5</h1>
                                             <p>Años <br />Experiencia</p>
                                         </div>
                                         <div className="client-item">
-                                            <h1>+10</h1>
+                                            <h1>+20</h1>
                                             <p>clientes <br />satisfechos</p>
                                         </div>
                                         <div className="client-item">
-                                            <h1>+10</h1>
+                                            <h1>+30</h1>
                                             <p>Proyectos <br />Completados</p>
                                         </div>
                                     </div>
