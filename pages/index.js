@@ -18,7 +18,7 @@ export default function Home() {
                                     </div>
                                     <div className="infos">
                                         <h4>Lorem ipsum</h4>
-                                        <h1>BorderEdge</h1>
+                                        <h1>Border Edge</h1>
                                         <p>Consultoría en Data y Software</p>
                                         <Link href="#" className="about-btn">
                                             <img src="/assets/images/icon.svg" alt="Button" />
@@ -32,7 +32,7 @@ export default function Home() {
                                         <div className="banner shadow-box">
                                             <div className="marquee">
                                                 <div>
-                                                    <span>BIENVENIDOS A <b>BorderEdge</b> <img src="/assets/images/star1.svg" alt="Star" /> BIENVENIDOS A <b>BorderEdge</b> <img src="/assets/images/star1.svg" alt="Star" /> BIENVENIDOS A <b>BorderEdge</b> <img src="/assets/images/star1.svg" alt="Star" /> BIENVENIDOS A <b>BorderEdge</b> <img src="/assets/images/star1.svg" alt="Star" /> BIENVENIDOS A <b>BorderEdge</b> <img src="/assets/images/star1.svg" alt="Star" /></span>
+                                                    <span>BIENVENIDOS A <b>Border Edge</b> <img src="/assets/images/star1.svg" alt="Star" /> BIENVENIDOS A <b>Border Edge</b> <img src="/assets/images/star1.svg" alt="Star" /> BIENVENIDOS A <b>Border Edge</b> <img src="/assets/images/star1.svg" alt="Star" /> BIENVENIDOS A <b>Border Edge</b> <img src="/assets/images/star1.svg" alt="Star" /> BIENVENIDOS A <b>Border Edge</b> <img src="/assets/images/star1.svg" alt="Star" /></span>
                                                 </div>
                                             </div>
                                         </div>
@@ -46,7 +46,7 @@ export default function Home() {
                                                 <div className="d-flex align-items-center justify-content-between">
                                                     <div className="infos">
                                                         <h4>conoce más</h4>
-                                                        <h1>BorderEdge</h1>
+                                                        <h1>Border Edge</h1>
                                                     </div>
                                                     <Link href="/credentials" className="about-btn">
                                                         <img src="/assets/images/icon.svg" alt="Button" />

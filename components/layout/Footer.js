@@ -16,7 +16,7 @@ export default function Footer() {
                             <li><Link href="/contact">Contacto</Link></li>
                         </ul>
                         <p className="copyright">
-                            © All rights reserved by <span>BorderEdge</span>
+                            © All rights reserved by <span>Border Edge</span>
                         </p>
                     </div>
                 </div>
