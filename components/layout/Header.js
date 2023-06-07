@@ -1,7 +1,6 @@
 import Link from "next/link"
 import { useRouter } from "next/router"
 import { useState } from "react"
-import ThemeSwitch from "../elements/ThemeSwitch"
 export default function Header() {
     const router = useRouter()
 
@@ -18,15 +17,13 @@ export default function Header() {
                         </Link>
                         <nav className={isToggled ? "navbar active" : " navbar"}>
                             <ul className="menu">
-                                <li className={router.pathname == "/" ? "active" : ""}><Link href="/">Home</Link></li>
-                                <li className={router.pathname == "/about" ? "active" : ""}><Link href="/about">About</Link></li>
-                                <li className={router.pathname == "/works" ? "active" : ""}><Link href="/works">Works</Link></li>
-                                <li className={router.pathname == "/contact" ? "active" : ""}><Link href="/contact">Contact</Link></li>
+                                <li className={router.pathname == "/" ? "active" : ""}><Link href="/">Inicio</Link></li>
+                                <li className={router.pathname == "/about" ? "active" : ""}><Link href="/about">Nosotros</Link></li>
+                                <li className={router.pathname == "/works" ? "active" : ""}><Link href="/works">Experiencia</Link></li>
+                                <li className={router.pathname == "/contact" ? "active" : ""}><Link href="/contact">Contacto</Link></li>
                             </ul>
-                            <Link href="/contact" className="theme-btn">Let's talk</Link>
                         </nav>
-                        <Link href="/contact" className="theme-btn">Let's talk</Link>
-                        <ThemeSwitch />
+                        <Link href="/contact" className="theme-btn">Contáctanos</Link>
                         <div className={isToggled ? "show-menu active" : " show-menu"} onClick={handleToggle}>
                             <span />
                             <span />

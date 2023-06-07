@@ -10,13 +10,13 @@ export default function Footer() {
                             <img src="/assets/images/logo.svg" alt="Logo" />
                         </Link>
                         <ul className="footer-menu">
-                            <li><Link href="/">Home</Link></li>
-                            <li><Link href="/about">About</Link></li>
-                            <li><Link href="/works">Works</Link></li>
-                            <li><Link href="/contact">Contact</Link></li>
+                            <li><Link href="/">Inicio</Link></li>
+                            <li><Link href="/about">Nosotros</Link></li>
+                            <li><Link href="/works">Experiencia</Link></li>
+                            <li><Link href="/contact">Contacto</Link></li>
                         </ul>
                         <p className="copyright">
-                            © All rights reserved by <span>WordPress River</span>
+                            © All rights reserved by <span>BorderEdge</span>
                         </p>
                     </div>
                 </div>

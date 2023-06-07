@@ -17,9 +17,9 @@ export default function Home() {
                                         <img src="/assets/images/me.png" alt="About Me" />
                                     </div>
                                     <div className="infos">
-                                        <h4>A WEB DESIGNER</h4>
-                                        <h1>David Henderson.</h1>
-                                        <p>I am a Web Designer based in san francisco.</p>
+                                        <h4>Bienvenido a </h4>
+                                        <h1>BorderEdge</h1>
+                                        <p>Consultoría en Data Analytics y Software</p>
                                         <Link href="#" className="about-btn">
                                             <img src="/assets/images/icon.svg" alt="Button" />
                                         </Link>
