@@ -7,7 +7,7 @@ export default function Home() {
              <Layout  maincls="main-homepage">
                 <section className="service-area">
                     <div className="container">
-                        <h1 className="section-heading" data-aos="fade-up"><img src="/assets/images/star-2.png" alt="Star" /> My Offerings <img src="/assets/images/star-2.png" alt="Star" /></h1>
+                        <h1 className="section-heading" data-aos="fade-up"><img src="/assets/images/star-2.png" alt="Star" />Servicios<img src="/assets/images/star-2.png" alt="Star" /></h1>
                         <div className="row">
                             {/* Sidebar */}
                             <div className="col-md-4">
@@ -36,7 +36,7 @@ export default function Home() {
                             </div>
                             {/* Content */}
                             <div className="col-md-8">
-                                <h1 className="section-heading" data-aos="fade-up"><img src="/assets/images/star-2.png" alt="Star" /> My Offerings <img src="/assets/images/star-2.png" alt="Star" /></h1>
+                                <h1 className="section-heading" data-aos="fade-up"><img src="/assets/images/star-2.png" alt="Star" />Servicios<img src="/assets/images/star-2.png" alt="Star" /></h1>
                                 <div className="service-content-wrap" data-aos="zoom-in">
                                     <div className="service-content-inner shadow-box">
                                         <div className="service-items">

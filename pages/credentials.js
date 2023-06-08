@@ -15,13 +15,12 @@ export default function Home() {
                                         <div className="img-box">
                                             <img src="/assets/images/me.png" alt="About Me" />
                                         </div>
-                                        <h2>David Henderson</h2>
-                                        <p>@davidhenderson</p>
+                                        <h2>Border Edge</h2>
+                                        <p>Data Science & Software Consulting</p>
                                         <ul className="social-links d-flex justify-content-center">
-                                            <li><Link href="#"><i className="iconoir-dribbble" /></Link></li>
+                                            <li><Link href="#"><i className="iconoir-linkedin" /></Link></li>
                                             <li><Link href="#"><i className="iconoir-twitter" /></Link></li>
                                             <li><Link href="#"><i className="iconoir-instagram" /></Link></li>
-                                            <li><Link href="#"><i className="iconoir-facebook-tag" /></Link></li>
                                         </ul>
                                         <Link href="/contact" className="theme-btn">Contact Me</Link>
                                     </div>
