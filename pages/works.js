@@ -33,7 +33,7 @@ export default function Home() {
                                 ))}
                             </div>
                             <div className="col-md-8">
-                                <h1 className="section-heading" data-aos="fade-up"><img src="/assets/images/star-2.png" alt="Star" /> All Projects <img src="/assets/images/star-2.png" alt="Star" /></h1>
+                                <h1 className="section-heading" data-aos="fade-up"><img src="/assets/images/star-2.png" alt="Star" />Clientes<img src="/assets/images/star-2.png" alt="Star" /></h1>
                                 <div className="d-flex align-items-start gap-24">
                                     {data.slice(2, 4).map((item, i) => (
                                         <div data-aos="zoom-in" className="flex-1">

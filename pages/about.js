@@ -72,16 +72,16 @@ export default function Home() {
                                             <img src="/assets/images/bg1.png" alt="BG" className="bg-img" />
                                             <div className="inner-profile-icons shadow-box">
                                                 <Link href="#">
-                                                    <i className="iconoir-dribbble" />
+                                                    <i className="iconoir-linkedin" />
                                                 </Link>
                                                 <Link href="#">
-                                                    <i className="iconoir-twitter" />
+                                                    <i className="iconoir-instagram" />
                                                 </Link>
                                             </div>
                                             <div className="d-flex align-items-center justify-content-between">
                                                 <div className="infos">
-                                                    <h4>Stay with me</h4>
-                                                    <h1>Profiles</h1>
+                                                    <h4>conoce más</h4>
+                                                    <h1>Redes</h1>
                                                 </div>
                                                 <Link href="/contact" className="about-btn">
                                                     <img src="/assets/images/icon.svg" alt="Button" />
@@ -94,7 +94,7 @@ export default function Home() {
                                             <Link className="overlay-link" href="/contact" />
                                             <img src="/assets/images/bg1.png" alt="BG" className="bg-img" />
                                             <img src="/assets/images/icon2.png" alt="Icon" className="star-icon" />
-                                            <h1>Let's <br />work <span>together.</span></h1>
+                                            <h1>Colaboremos<br /><span>hoy mismo.</span></h1>
                                             <Link href="/contact" className="about-btn">
                                                 <img src="/assets/images/icon.svg" alt="Button" />
                                             </Link>
@@ -107,8 +107,8 @@ export default function Home() {
                                             <img src="/assets/images/sign.png" alt="Sign" />
                                             <div className="d-flex align-items-center justify-content-between">
                                                 <div className="infos">
-                                                    <h4>more about me</h4>
-                                                    <h1>Credentials</h1>
+                                                    <h4>conoce más</h4>
+                                                    <h1>Border Edge</h1>
                                                 </div>
                                                 <Link href="/credentials" className="about-btn">
                                                     <img src="/assets/images/icon.svg" alt="Button" />

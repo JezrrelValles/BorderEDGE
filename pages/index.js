@@ -165,7 +165,7 @@ export default function Home() {
                                     <Link className="overlay-link" href="/contact" />
                                     <img src="/assets/images/bg1.png" alt="BG" className="bg-img" />
                                     <img src="/assets/images/icon2.png" alt="Icon" className="star-icon" />
-                                    <h1>Colaboremos<br /><span>desde hoy.</span></h1>
+                                    <h1>Colaboremos<br /><span>hoy mismo.</span></h1>
                                     <Link href="#" className="about-btn">
                                         <img src="/assets/images/icon.svg" alt="Button" />
                                     </Link>
