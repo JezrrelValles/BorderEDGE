@@ -35,15 +35,10 @@
       "static/chunks/main.js",
       "static/chunks/pages/about.js"
     ],
-    "/contact": [
+    "/service": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/contact.js"
-    ],
-    "/works": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/works.js"
+      "static/chunks/pages/service.js"
     ]
   },
   "ampFirstPages": []
