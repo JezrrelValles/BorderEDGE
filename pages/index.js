@@ -17,9 +17,9 @@ export default function Home() {
                                         <img src="/assets/images/me.png" alt="About Me" />
                                     </div>
                                     <div className="infos">
-                                        <h4>The</h4>
+                                        <h4>Welcome to</h4>
                                         <h1>Border Edge</h1>
-                                        <p>Análisis de Datos y Software</p>
+                                        <p>Data Science & Software Consulting.</p>
                                         <Link href="#" className="about-btn">
                                             <img src="/assets/images/icon.svg" alt="Button" />
                                         </Link>
@@ -32,7 +32,7 @@ export default function Home() {
                                         <div className="banner shadow-box">
                                             <div className="marquee">
                                                 <div>
-                                                    <span>BIENVENIDOS A <b>Border Edge</b> <img src="/assets/images/star1.svg" alt="Star" /> BIENVENIDOS A <b>Border Edge</b> <img src="/assets/images/star1.svg" alt="Star" /> BIENVENIDOS A <b>Border Edge</b> <img src="/assets/images/star1.svg" alt="Star" /> BIENVENIDOS A <b>Border Edge</b> <img src="/assets/images/star1.svg" alt="Star" /> BIENVENIDOS A <b>Border Edge</b> <img src="/assets/images/star1.svg" alt="Star" /></span>
+                                                    <img src="/assets/images/star1.svg" alt="Star" /> <span>Bienvenido a <b>Border Edge</b> <img src="/assets/images/star1.svg" alt="Star" /> Bienvenido a <b>Border Edge</b> <img src="/assets/images/star1.svg" alt="Star" /> Bienvenido a <b>Border Edge</b> <img src="/assets/images/star1.svg" alt="Star" /> Bienvenido a <b>Border Edge</b> <img src="/assets/images/star1.svg" alt="Star" /> Bienvenido a <b>Border Edge</b> <img src="/assets/images/star1.svg" alt="Star" /></span>
                                                 </div>
                                             </div>
                                         </div>
