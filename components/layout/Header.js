@@ -19,9 +19,8 @@ export default function Header() {
                             <ul className="menu">
                                 <li className={router.pathname == "/" ? "active" : ""}><Link href="/">Inicio</Link></li>
                                 <li className={router.pathname == "/about" ? "active" : ""}><Link href="/about">Nosotros</Link></li>
-                                <li className={router.pathname == "/works" ? "active" : ""}><Link href="/works">Experiencia</Link></li>
-                                <li className={router.pathname == "/contact" ? "active" : ""}><Link href="/contact">Contacto</Link></li>
-                            </ul>
+                                <li className={router.pathname == "/service" ? "active" : ""}><Link href="/service">Servicios</Link></li>
+                                <li className={router.pathname == "/works" ? "active" : ""}><Link href="/works">Socios</Link></li>                            </ul>
                         </nav>
                         <Link href="/contact" className="theme-btn">Contáctanos</Link>
                         <div className={isToggled ? "show-menu active" : " show-menu"} onClick={handleToggle}>

@@ -17,9 +17,9 @@ export default function Home() {
                                         <img src="/assets/images/me.png" alt="About Me" />
                                     </div>
                                     <div className="infos">
-                                        <h4>Welcome to</h4>
+                                        <h4>Bienvenido a</h4>
                                         <h1>Border Edge</h1>
-                                        <p>Data Science & Software Consulting.</p>
+                                        <p>Data Science & Software Dev Consulting</p>
                                         <Link href="#" className="about-btn">
                                             <img src="/assets/images/icon.svg" alt="Button" />
                                         </Link>
@@ -62,7 +62,7 @@ export default function Home() {
                                                 <div className="d-flex align-items-center justify-content-between">
                                                     <div className="infos">
                                                         <h4>conoce más</h4>
-                                                        <h1>Clientes</h1>
+                                                        <h1>Socios</h1>
                                                     </div>
                                                     <Link href="#" className="about-btn">
                                                         <img src="/assets/images/icon.svg" alt="Button" />

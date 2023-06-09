@@ -9,30 +9,30 @@
         "id": 2,
         "title": "APTIV",
         "img": "aptiv.png",
-        "category": "SOFTWARE"
+        "category": "SOFTWARE DEV"
     },
     {
         "id": 3,
         "title": "COMMSCOPE",
         "img": "commscope.png",
-        "category": "SOFTWARE"
+        "category": "SOFTWARE DEV"
     },
     {
         "id": 4,
         "title": "AMN",
         "img": "amn.png",
-        "category": "DATA SCIENCE & SOFTWARE"
+        "category": "DATA SCIENCE & SOFTWARE DEV"
     },
     {
         "id": 5,
         "title": "VITESCO",
         "img": "vitesco.png",
-        "category": "SOFTWARE"
+        "category": "SOFTWARE DEV"
     },
     {
         "id": 6,
         "title": "HUBBELL",
         "img": "hubbell.png",
-        "category": "DATA SCIENCE & SOFTWARE"
+        "category": "DATA SCIENCE & SOFTWARE DEV"
     }
 ]

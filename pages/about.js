@@ -18,11 +18,9 @@ export default function Home() {
                                 </div>
                             </div>
                             <div className="about-details" data-aos="zoom-in">
-                                <h1 className="section-heading" data-aos="fade-up"><img src="/assets/images/star-2.png" alt="Star" /> Border Edge <img src="/assets/images/star-2.png" alt="Star" /></h1>
                                 <div className="about-details-inner shadow-box">
-                                    <img src="/assets/images/icon2.png" alt="Star" />
-                                    <h1>Consultoría</h1>
-                                    <p>Con Border Edge, podrás convertir los datos en conocimiento y acción, gracias a nuestros conocimientos en ciencia de datos y software.</p>
+                                    <h1>¿Quiénes somos?</h1>
+                                    <p>Somos una agencia de consultoría emergente que esta profundamente comprometida en facilitar el acceso a todas las personas/empresas a las nuevas tecnologías y la amplia gama de oportunidades que representan.</p>
                                 </div>
                             </div>
                         </div>
@@ -30,17 +28,10 @@ export default function Home() {
                             <div className="col-md-6" data-aos="zoom-in">
                                 <div className="about-edc-exp about-experience shadow-box">
                                     <img src="/assets/images/bg1.png" alt="BG" className="bg-img" />
-                                    <h3>DATA SCIENCE</h3>
+                                    <h3>MISIÓN</h3>
                                     <ul>
                                         <li>
-                                            <p className="date">2007 - 2017</p>
-                                            <h2>Framer Designer  Developer</h2>
-                                            <p className="type">Bluebase Designs</p>
-                                        </li>
-                                        <li>
-                                            <p className="date">2017 - 2023</p>
-                                            <h2>Front-End Developer</h2>
-                                            <p className="type">Larsen  Toubro</p>
+                                            <p className="date">Nuestra misión es proporcionar soluciones innovadoras y personalizadas en ciencia de datos y desarrollo de software para ayudar a las organizaciones a aprovechar al máximo sus datos y alcanzar sus objetivos estratégicos.<br/><br/>Nos comprometemos a ofrecer servicios de alta calidad, basados en análisis rigurosos y técnicas avanzadas de procesamiento de datos, que impulsen la toma de decisiones y la optimización de procesos.</p>
                                         </li>
                                     </ul>
                                 </div>
@@ -48,17 +39,10 @@ export default function Home() {
                             <div className="col-md-6" data-aos="zoom-in">
                                 <div className="about-edc-exp about-education shadow-box">
                                     <img src="/assets/images/bg1.png" alt="BG" className="bg-img" />
-                                    <h3>SOFTWARE</h3>
+                                    <h3>VISIÓN</h3>
                                     <ul>
                                         <li>
-                                            <p className="date">2004 - 2007</p>
-                                            <h2>Bachelor Degree in Psychology</h2>
-                                            <p className="type">University of California</p>
-                                        </li>
-                                        <li>
-                                            <p className="date">2007 - 2009</p>
-                                            <h2>Master Degree in Designing</h2>
-                                            <p className="type">University of Texas</p>
+                                            <p className="date">Nos visualizamos como una consultora líder en el campo de la ciencia de datos y el desarrollo de software, reconocida por nuestra excelencia técnica, capacidad para resolver desafíos complejos y enfoque centrado en el cliente.<br/><br/>Buscamos ser un socio estratégico confiable para las organizaciones, ayudándolas a convertir sus datos en información valiosa, automatizar procesos mediante la creación de software a la medida, para alcanzar un rendimiento óptimo en sus operaciones.</p>
                                         </li>
                                     </ul>
                                 </div>

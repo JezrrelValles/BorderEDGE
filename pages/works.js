@@ -24,16 +24,13 @@ export default function Home() {
                                                     <p>{item.category}</p>
                                                     <h1>{item.title}</h1>
                                                 </div>
-                                                <Link href={`/project/${item.id}`} className="project-btn">
-                                                    <img src="/assets/images/icon.svg" alt="Button" />
-                                                </Link>
                                             </div>
                                         </div>
                                     </div>
                                 ))}
                             </div>
                             <div className="col-md-8">
-                                <h1 className="section-heading" data-aos="fade-up"><img src="/assets/images/star-2.png" alt="Star" />Clientes<img src="/assets/images/star-2.png" alt="Star" /></h1>
+                                <h1 className="section-heading" data-aos="fade-up">Socios</h1>
                                 <div className="d-flex align-items-start gap-24">
                                     {data.slice(2, 4).map((item, i) => (
                                         <div data-aos="zoom-in" className="flex-1">
@@ -48,9 +45,6 @@ export default function Home() {
                                                         <p>{item.category}</p>
                                                         <h1>{item.title}</h1>
                                                     </div>
-                                                    <Link href={`/project/${item.id}`} className="project-btn">
-                                                        <img src="/assets/images/icon.svg" alt="Button" />
-                                                    </Link>
                                                 </div>
                                             </div>
                                         </div>
@@ -70,9 +64,6 @@ export default function Home() {
                                                         <p>{item.category}</p>
                                                         <h1>{item.title}</h1>
                                                     </div>
-                                                    <Link href={`/project/${item.id}`} className="project-btn">
-                                                        <img src="/assets/images/icon.svg" alt="Button" />
-                                                    </Link>
                                                 </div>
                                             </div>
                                         </div>
