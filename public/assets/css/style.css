@@ -571,7 +571,7 @@ ol {
     border-radius: 30px;
 }
 .about-area .about-image-box .image-inner {
-    background: linear-gradient(90deg, #3C58E3 -15%, #C2EBFF 58%, #5AB5E2 97%);
+    background: transparent;
     border-radius: 30px;
 }
 .about-area .about-image-box img {

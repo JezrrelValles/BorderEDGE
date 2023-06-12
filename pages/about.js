@@ -18,9 +18,10 @@ export default function Home() {
                                 </div>
                             </div>
                             <div className="about-details" data-aos="zoom-in">
+                            <h1 className="section-heading" data-aos="fade-up">¿Quiénes somos?</h1>
                                 <div className="about-details-inner shadow-box">
-                                    <h1>¿Quiénes somos?</h1>
-                                    <p>Somos una agencia de consultoría emergente que esta profundamente comprometida en facilitar el acceso a todas las personas/empresas a las nuevas tecnologías y la amplia gama de oportunidades que representan.</p>
+                                    <h1>Border Edge</h1>
+                                    <p>Es una agencia de consultoría emergente que esta profundamente comprometida en facilitar el acceso a todas las personas/empresas a las nuevas tecnologías y la amplia gama de oportunidades que representan.</p>
                                 </div>
                             </div>
                         </div>

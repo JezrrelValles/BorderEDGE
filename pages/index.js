@@ -99,10 +99,9 @@ export default function Home() {
                                             <img src="/assets/images/bg1.png" alt="BG" className="bg-img" />
                                             <div className="icon-boxes">
                                                 <i className="iconoir-page-search" />
+                                                <i className="iconoir-stats-report" />
                                                 <i className="iconoir-dev-mode-laptop" />
-                                                <i className="iconoir-graph-up" />
-                                                <i className="iconoir-database-stats" />
-                                                <i className="iconoir-presentation" />
+                                                <i className="iconoir-www" />
                                             </div>
                                             <div className="d-flex align-items-center justify-content-between">
                                                 <div className="infos">
