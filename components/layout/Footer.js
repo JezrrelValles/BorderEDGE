@@ -12,7 +12,8 @@ export default function Footer() {
                         <ul className="footer-menu">
                             <li><Link href="/">Inicio</Link></li>
                             <li><Link href="/about">Nosotros</Link></li>
-                            <li><Link href="/services">Servicios</Link></li>
+                            <li><Link href="/service">Servicios</Link></li>
+                            <li><Link href="/credentials">Soluciones</Link></li>
                             <li><Link href="/works">Socios</Link></li>
                             <li><Link href="/contact">Contacto</Link></li>
                         </ul>

@@ -93,7 +93,7 @@ export default function Home() {
                                             <div className="d-flex align-items-center justify-content-between">
                                                 <div className="infos">
                                                     <h4>conoce más</h4>
-                                                    <h1>Border Edge</h1>
+                                                    <h1>Soluciones</h1>
                                                 </div>
                                                 <Link href="/credentials" className="about-btn">
                                                     <img src="/assets/images/icon.svg" alt="Button" />

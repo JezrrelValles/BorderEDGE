@@ -44,7 +44,6 @@ export default function Home() {
                                 <h3 data-aos="fade-up">REDES</h3>
                                 <ul className="social-links d-flex align-center" data-aos="zoom-in">
                                     <li><Link className="shadow-box" href="#"><i className="iconoir-linkedin" /></Link></li>
-                                    <li><Link className="shadow-box" href="#"><i className="iconoir-twitter" /></Link></li>
                                     <li><Link className="shadow-box" href="#"><i className="iconoir-instagram" /></Link></li>
                                 </ul>
                             </div>
