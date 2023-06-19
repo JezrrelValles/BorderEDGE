@@ -56,10 +56,10 @@ export default function Home() {
                                         <div className="about-profile-box info-box shadow-box h-full">
                                             <img src="/assets/images/bg1.png" alt="BG" className="bg-img" />
                                             <div className="inner-profile-icons shadow-box">
-                                                <Link href="#">
+                                                <Link href="https://www.linkedin.com/in/jezrrelvalles/">
                                                     <i className="iconoir-linkedin" />
                                                 </Link>
-                                                <Link href="#">
+                                                <Link href="https://www.instagram.com/pseudonegro/">
                                                     <i className="iconoir-instagram" />
                                                 </Link>
                                             </div>

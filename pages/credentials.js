@@ -18,8 +18,8 @@ export default function Home() {
                                         <h2>Border Edge</h2>
                                         <p>Data Science & Software Dev Consulting</p>
                                         <ul className="social-links d-flex justify-content-center">
-                                            <li><Link href="#"><i className="iconoir-linkedin" /></Link></li>
-                                            <li><Link href="#"><i className="iconoir-instagram" /></Link></li>
+                                            <li><Link href="https://www.linkedin.com/in/jezrrelvalles/"><i className="iconoir-linkedin" /></Link></li>
+                                            <li><Link href="https://www.instagram.com/pseudonegro/"><i className="iconoir-instagram" /></Link></li>
                                         </ul>
                                         <Link href="/contact" className="theme-btn">Contacto</Link>
                                     </div>

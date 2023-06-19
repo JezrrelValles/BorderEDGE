@@ -17,8 +17,7 @@ export default function Home() {
                                         </div>
                                         <div className="right">
                                             <span>CORREO</span>
-                                            <h4>info@bluebase.com</h4>
-                                            <h4>info@bluebase2.com</h4>
+                                            <h4>jezrrel.valles@ia.center</h4>
                                         </div>
                                     </li>
                                     <li className="d-flex align-items-center" data-aos="zoom-in">
@@ -27,8 +26,7 @@ export default function Home() {
                                         </div>
                                         <div className="right">
                                             <span>TELÉFONO</span>
-                                            <h4>+1 504-899-8221</h4>
-                                            <h4>+1 504-749-5456</h4>
+                                            <h4>+52 656-586-2120</h4>
                                         </div>
                                     </li>
                                     <li className="d-flex align-items-center" data-aos="zoom-in">
@@ -37,14 +35,14 @@ export default function Home() {
                                         </div>
                                         <div className="right">
                                             <span>UBICACIÓN</span>
-                                            <h4>22 Baker Street, Texas <br />United States <br />W1U 3BW</h4>
+                                            <h4>Av Vicente Guerrero 8830, Hipódromo<br />Ciudad Juárez <br />Chihuahua</h4>
                                         </div>
                                     </li>
                                 </ul>
                                 <h3 data-aos="fade-up">REDES</h3>
                                 <ul className="social-links d-flex align-center" data-aos="zoom-in">
-                                    <li><Link className="shadow-box" href="#"><i className="iconoir-linkedin" /></Link></li>
-                                    <li><Link className="shadow-box" href="#"><i className="iconoir-instagram" /></Link></li>
+                                    <li><Link className="shadow-box" href="https://www.linkedin.com/in/jezrrelvalles/"><i className="iconoir-linkedin" /></Link></li>
+                                    <li><Link className="shadow-box" href="https://www.instagram.com/pseudonegro/"><i className="iconoir-instagram" /></Link></li>
                                 </ul>
                             </div>
                             <div data-aos="zoom-in" className="contact-form">

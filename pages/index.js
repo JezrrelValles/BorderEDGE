@@ -79,7 +79,7 @@ export default function Home() {
                                 <div className="blog-service-profile-wrap d-flex gap-24">
                                     <div data-aos="zoom-in">
                                         <div className="about-blog-box info-box shadow-box h-full">
-                                            <Link href="/blog" className="overlay-link" />
+                                            {/* <Link href="/blog" className="overlay-link" /> */}
                                             <img src="/assets/images/bg1.png" alt="BG" className="bg-img" />
                                             <img src="/assets/images/gfonts.png" alt="GFonts" />
                                             <div className="d-flex align-items-center justify-content-between">
@@ -87,9 +87,9 @@ export default function Home() {
                                                     <h4>conoce más</h4>
                                                     <h1>Noticias</h1>
                                                 </div>
-                                                <Link href="/blog" className="about-btn">
+                                                {/* <Link href="/blog" className="about-btn">
                                                     <img src="/assets/images/icon.svg" alt="Button" />
-                                                </Link>
+                                                </Link> */}
                                             </div>
                                         </div>
                                     </div>
@@ -118,10 +118,10 @@ export default function Home() {
                                         <div className="about-profile-box info-box shadow-box h-full">
                                             <img src="/assets/images/bg1.png" alt="BG" className="bg-img" />
                                             <div className="inner-profile-icons shadow-box">
-                                                <Link href="#">
+                                                <Link href="https://www.linkedin.com/in/jezrrelvalles/">
                                                     <i className="iconoir-linkedin" />
                                                 </Link>
-                                                <Link href="#">
+                                                <Link href="https://www.instagram.com/pseudonegro/">
                                                     <i className="iconoir-instagram" />
                                                 </Link>
                                             </div>
